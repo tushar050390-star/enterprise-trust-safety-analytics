@@ -1,6 +1,20 @@
 # Enterprise Trust & Safety Operations Analytics
 
-> End-to-end Business Intelligence and Operations Analytics solution using SQL Server, Power BI and DAX to analyze operational performance, workforce capacity and demand forecasting.
+> **Business Intelligence & Operations Analytics Case Study**
+
+An enterprise-style analytics solution designed to provide management visibility into **operational performance, workforce capacity and future workload demand** using SQL Server, Power BI and DAX.
+
+### 🎯 Implemented Solution
+
+**Executive Overview** • **Operations Analytics** • **Workforce Management** • **Workforce Demand Forecasting**
+
+### 🛠️ Technology Stack
+
+**SQL Server** • **SSMS** • **Power BI** • **DAX** • **Tabular Editor**
+
+### 📘 Portfolio Case Study
+
+[**View the Full Portfolio Case Study (PDF)**](Enterprise_Trust_Safety_Operations_Analytics_Case_Study.pdf)
 
 ---
 
